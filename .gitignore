@@ -1,0 +1,5 @@
+/.venv
+
+*.txt
+settings.py
+*.csv
